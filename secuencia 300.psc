@@ -1,0 +1,36 @@
+algoritmo secuencia 
+    definir a , b , c , d , e , f , g ,h , i , j ,k ,l,m,n,p,q,r,s,t,u,v,w,x,z, xd,ab,hg,ic,xq,zp,sum como real ;
+    escribir " ingresa los datos solicitados " ; 
+    leer a ;
+    leer b ; 
+    leer c ;
+    leer d ; 
+    leer e ;
+    leer f ;
+    leer g ;
+    leer h ;
+    leer i ;
+    leer j ; 
+    leer k ;
+    leer l ;
+    leer m ;
+    leer n ;
+    leer  p ;
+    leer q ;
+    leer  r ; 
+    leer s ; 
+    leer t ; 
+    leer u ;
+    leer v ; 
+    leer w ;
+    leer x ;
+    leer z ; 
+    leer xd ;
+    leer ab ;
+    leer hg ;
+    leer ic ;
+    leer xq ;
+    leer zp ;
+    sum <-( a+ b+c+e+f+g+h+i+j+k+l+m+n+p+q+r+s+t+u+v+w+x+z+xd+ab+hg+ic+xq+zp ) ;
+   escribir " la suma es =  " a, b ;
+    finalgoritmo
